@@ -2,11 +2,16 @@
 ESP8622 AJAX webserver
 
 # How to use?
-Replace following variables with yours:
+Replace following variables with your own:
 ```
 const char* ssid = "YOUR_SSID";
 const char* password = "YOUR_PASSWORD";
 ```
+
+# How can i access to webserver?
+There are two solutions for this above:
+- Set static ip address for ESP in your router config
+- Connect ESP's TX, RX to arduino and see ip address in arduino ide serial monitor
 
 # How to program my ESP with arduino?
 [ESP8622 programming guide](https://github.com/mohamadkhalaj/esp8266-programming-guide/blob/main/README.md)

@@ -9,7 +9,7 @@ const char* password = "YOUR_PASSWORD";
 ```
 
 # How can i access to webserver?
-There are two solutions for this above:
+There are two solutions for above question:
 - Set static ip address for ESP in your router config
 - Connect ESP's TX, RX to arduino and see ip address in arduino ide serial monitor
 

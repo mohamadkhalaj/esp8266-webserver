@@ -1,5 +1,5 @@
-# ESP8622-webserver
-ESP8622 AJAX webserver
+# ESP8266-webserver
+ESP8266 AJAX webserver
 
 # How to use?
 Replace following variables with your own:

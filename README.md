@@ -14,7 +14,7 @@ There are two solutions for above question:
 - Connect ESP's TX, RX to arduino and see ip address in arduino ide serial monitor
 
 # How to program my ESP with arduino?
-[ESP8622 programming guide](https://github.com/mohamadkhalaj/esp8266-programming-guide/blob/main/README.md)
+[ESP8266 programming guide](https://github.com/mohamadkhalaj/esp8266-programming-guide/blob/main/README.md)
 
 # Where is schematic?
 This project is so simple so i write it here without any images.
